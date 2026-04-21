@@ -1,2 +1,3 @@
-# web_scraper_extension-for-turbowarp-Made-by-Gemini-
+# web_scraper_extension
+# Made by Gemini
 scrapes any website what inspect elements
